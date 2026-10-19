@@ -42,5 +42,5 @@ networks:
   internal:
     driver: bridge
 
-  dokploy-network:
+  deploy-network:
     external: true
